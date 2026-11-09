@@ -1,0 +1,9 @@
+row_id,query,monthly_searches,difficulty,intent,current_page
+K01,configuration review checklist,180,24,practical checklist,/guides/review-checklist
+K02,configuration diff review,90,18,compare changes,/workshop
+K03,free security certification,900,63,certification,
+K04,release configuration changes,70,20,release review,/workshop
+K05,automatic secure release,210,45,automated assurance,
+K06,configuration review workshop,40,11,training,/workshop
+K07,json configuration comparison,120,29,tool how-to,/guides/review-checklist
+K08,penetration testing course,800,70,attack training,
