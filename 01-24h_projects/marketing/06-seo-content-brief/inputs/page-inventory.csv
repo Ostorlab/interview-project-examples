@@ -1,0 +1,9 @@
+page_id,url,title,meta_description,primary_topic,last_updated,status,redirect_to
+G01,https://kitewren.example/blog/who-owns-a-security-finding,Who owns a security finding? A guide for small ops teams,"When nobody owns a security finding, it waits. Learn how small operations teams decide who follows each finding through to a decision.",CL1,2025-03-10,live,
+G02,https://kitewren.example/guides/security-finding-triage,Security finding triage: a five-step process,"A simple five-step process to sort security findings, decide what needs attention first, and hand each one to the right person.",CL2,2026-06-02,live,
+G03,https://kitewren.example/features/assign-owners,Assign owners to security findings automatically | Kitewren,"Upload findings as CSV and let your own rules assign an owner to each one, by asset, application or team.",CL1,2026-08-20,live,
+G04,https://kitewren.example/blog/findings-spreadsheet,Tracking security findings in a spreadsheet,"Still tracking security findings in a spreadsheet? See the columns every tracker needs, the mistakes to avoid, and why Kitewren cuts remediation time in half for teams.",CL3,2025-11-18,live,
+G05,https://kitewren.example/blog/triage-checklist-2024,Triage checklist (2024 edition),"Our 2024 checklist for triaging security findings.",CL2,2024-05-06,redirected,G02
+G06,https://kitewren.example/,Kitewren: an owner for every security finding,"Kitewren assigns every uploaded security finding an owner, tracks due dates and reminds owners before deadlines.",CL0,2026-09-01,live,
+G07,https://kitewren.example/drafts/due-date-reminders,Security finding due dates and owner reminders: your complete 2026 guide,"How to set due dates for security findings and remind owners before they slip.",CL4,2026-09-28,noindex,
+G08,https://kitewren.example/demo,Request a 20-minute Kitewren demo,"See Kitewren with synthetic findings in a 20-minute guided demo. Not a free trial.",conversion,2026-07-14,live,

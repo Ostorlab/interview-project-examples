@@ -1,0 +1,12 @@
+row_id,query,monthly_impressions,clicks,avg_position,landing_url,export_date
+N01,security findings spreadsheet template,950,0,11.3,https://kitewren.example/blog/findings-spreadsheet,2026-11-02
+N02,security finding due date reminders,700,4,9.5,https://kitewren.example/features/assign-owners,2026-11-02
+N03,vulnerability deadline reminders,380,1,12.4,https://kitewren.example/features/assign-owners,2026-11-02
+N04,security findings summary for leadership,520,3,9.8,https://kitewren.example/,2026-11-02
+N05,corvane login,400,0,31.0,https://kitewren.example/,2026-11-02
+N06,vulnerability triage process,720,22,6.5,https://kitewren.example/blog/triage-checklist-2024,2026-11-02
+N07,How To Assign Owners To Security Findings,870,35,4.9,https://kitewren.example/blog/who-owns-a-security-finding,2026-11-02
+N08,auto-fix vulnerabilities tool,1650,2,22.0,https://kitewren.example/features/assign-owners,2026-11-02
+N09,what does a security finding owner do,260,5,6.1,https://kitewren.example/blog/who-owns-a-security-finding,2026-11-02
+N10,kitewren login,90,70,1.1,https://kitewren.example/,2026-11-02
+N11,security finding triage,1260,46,4.1,https://kitewren.example/guides/security-finding-triage,2026-11-02

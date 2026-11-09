@@ -1,0 +1,21 @@
+row_id,query,monthly_impressions,clicks,avg_position,landing_url,export_date
+K01,security finding ownership,1450,22,7.4,https://kitewren.example/blog/who-owns-a-security-finding,2026-10-01
+K02,security finding ownership,610,5,12.8,https://kitewren.example/features/assign-owners,2026-10-01
+K03,how to assign owners to security findings,820,31,5.1,https://kitewren.example/blog/who-owns-a-security-finding,2026-10-01
+K04,finding owner assignment tool,390,9,9.6,https://kitewren.example/features/assign-owners,2026-10-01
+K05,vulnerability ownership matrix template,240,3,14.2,https://kitewren.example/blog/who-owns-a-security-finding,2026-10-01
+K06,how to prioritize and assign security findings,300,6,8.8,https://kitewren.example/blog/who-owns-a-security-finding,2026-10-01
+K07,security finding triage,1100,41,4.3,https://kitewren.example/guides/security-finding-triage,2026-10-01
+K08,vulnerability triage process,680,19,6.9,https://kitewren.example/guides/security-finding-triage,2026-10-01
+K09,triage checklist for security findings,420,7,9.2,https://kitewren.example/blog/triage-checklist-2024,2026-10-01
+K10,best vulnerability triage software,510,4,16.5,https://kitewren.example/guides/security-finding-triage,2026-10-01
+K11,security findings spreadsheet template,900,0,4.4,https://kitewren.example/blog/findings-spreadsheet,2026-10-01
+K12,track vulnerabilities in a spreadsheet,340,0,11.4,https://kitewren.example/blog/findings-spreadsheet,2026-10-01
+K13,compliance certification tracking software,260,4,18.0,https://kitewren.example/blog/findings-spreadsheet,2026-10-01
+K14,security findings report for management,560,6,13.6,https://kitewren.example/,2026-10-01
+K15,weekly vulnerability status report,330,2,19.2,https://kitewren.example/,2026-10-01
+K16,kitewren,150,88,1.2,https://kitewren.example/,2026-10-01
+K17,Kitewren demo,60,21,1.5,https://kitewren.example/,2026-10-01
+K18,auto-fix vulnerabilities tool,1300,3,24.0,https://kitewren.example/features/assign-owners,2026-10-01
+K19,Security Finding  Triage,140,3,3.1,https://kitewren.example/guides/security-finding-triage,2026-10-01
+K20,assign security findings to owners automatically,210,2,10.3,https://kitewren.example/features/assign-owners,2026-10-01
